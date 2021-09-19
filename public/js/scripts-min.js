@@ -1,0 +1,1 @@
+"use strict";function _classCallCheck(n,e){if(!(n instanceof e))throw new TypeError("Cannot call a class as a function")}var numbers=[1,2,3,4],numbersDouble=numbers.map((function(n){return 2*n})),Person=function n(e){_classCallCheck(this,n),this.name=e};console.log(numbers);var numbers2=[7,71,4,81],numbersTripe=numbers2.map((function(n){return 3*n}));console.log("Hello World");
